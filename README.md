@@ -34,4 +34,17 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
    ```bash
    jupyter notebook "TSA Of Daily minimum temperatures.ipynb"
    ```
+## Results
+- Successfully identified patterns in daily minimum temperature fluctuations.
+- Built predictive models for forecasting future temperature values.
+- Provided insights into seasonal and trend variations in the dataset.
+
+## Author
+- **Aman Rai**
+
+## License
+- This project is licensed under the **MIT License**.
+
+
+
 
