@@ -21,4 +21,17 @@ Ensure the following Python libraries are installed before running the analysis:
 ```bash
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
 ```
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd <project-folder>
+   ```
+3. Open and run the Jupyter Notebook:
+   ```bash
+   jupyter notebook "TSA Of Daily minimum temperatures.ipynb"
+   ```
 
