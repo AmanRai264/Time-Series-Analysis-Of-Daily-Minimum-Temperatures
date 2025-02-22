@@ -16,4 +16,9 @@ This project is focused on analyzing daily minimum temperatures over time using 
 4. **Forecasting Models**:
    - Implement and compare ARIMA, SARIMA, and Exponential Smoothing models.
    - Evaluate model performance using RMSE, MAPE, and other error metrics.
+## Dependencies
+Ensure the following Python libraries are installed before running the analysis:
+```bash
+pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
+```
 
