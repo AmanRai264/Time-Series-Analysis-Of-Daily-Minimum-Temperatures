@@ -10,3 +10,10 @@ This project is focused on analyzing daily minimum temperatures over time using 
 2. **Time Series Decomposition**:
    - Break down the time series into trend, seasonal, and residual components.
    - Analyze and interpret each component’s effect on temperature variation.
+3. **Stationarity Check**:
+   - Conduct Augmented Dickey-Fuller (ADF) test to determine stationarity.
+   - Apply transformations (differencing, log transformation) if necessary.
+4. **Forecasting Models**:
+   - Implement and compare ARIMA, SARIMA, and Exponential Smoothing models.
+   - Evaluate model performance using RMSE, MAPE, and other error metrics.
+
