@@ -42,9 +42,6 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
 ## Author
 - **Aman Rai**
 
-## License
-- This project is licensed under the **MIT License**.
-
 
 
 
